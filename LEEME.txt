@@ -1,0 +1,10 @@
+PULSO LOCAL | SIMULACIÓN ACADÉMICA
+
+1. Abre index.html en un navegador. Funciona sin servidor y puede subirse a GitHub Pages.
+2. Entra a Sala de redacción (redaccion.html).
+3. Las tres publicaciones iniciales están en la carpeta pdfs y también enlazadas desde la bandeja.
+4. Los formularios intentan guardar automáticamente los avances en ESTE navegador (localStorage), cuando su configuración lo permite. Exporta el informe en .txt antes de cerrar: la descarga funciona incluso si el navegador no permite almacenamiento. No se envía a ningún servidor.
+5. Las evidencias de la investigación no se publican en el sitio: la docente debe entregarlas progresivamente en la simulación.
+6. Todos los sucesos, personajes, entidades, declaraciones y documentos de Pulso Local son ficticios. Las ilustraciones son originales y no representan hechos reales.
+7. La tipografía editorial utiliza fuentes disponibles en el equipo; hay una fuente web opcional con alternativas sin conexión.
+8. Para publicar en GitHub Pages, sube los archivos del ZIP a un repositorio y activa Pages. No incluya materiales privados de la guía docente.
